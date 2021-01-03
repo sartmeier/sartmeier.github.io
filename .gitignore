@@ -12,6 +12,7 @@
 *.cb2
 .*.lb
 .DS_Store
+.ipynb_checkpoints
 
 ## Intermediate documents:
 *.dvi
