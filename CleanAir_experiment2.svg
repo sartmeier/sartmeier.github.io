@@ -13,8 +13,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
-   sodipodi:docname="CleanAir_experiment.svg"
-   inkscape:export-filename="/Users/susanneartmeier/Documents/cleanair_experiment_schema.png"
+   sodipodi:docname="CleanAir_experiment2.svg"
+   inkscape:export-filename="/Users/susanneartmeier/Documents/GitHub/sartmeier.github.io/cleanair_experiment_schema2.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -102,7 +102,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -559,13 +559,35 @@
     <text
        xml:space="preserve"
        style="font-size:14.1111px;line-height:1.25;font-family:Zapfino;-inkscape-font-specification:Zapfino;stroke-width:0.264583"
-       x="-20.939611"
-       y="137.2491"
+       x="-13.380088"
+       y="165.21935"
        id="text962"><tspan
          sodipodi:role="line"
          id="tspan960"
-         x="-20.939611"
-         y="137.2491"
-         style="stroke-width:0.264583"></tspan></text>
+         x="-13.380088"
+         y="165.21935"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583">person 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:Zapfino;-inkscape-font-specification:Zapfino;stroke-width:0.264583"
+       x="-12.24616"
+       y="240.05862"
+       id="text966"><tspan
+         sodipodi:role="line"
+         id="tspan964"
+         x="-12.24616"
+         y="240.05862"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583">person 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:Zapfino;-inkscape-font-specification:Zapfino;stroke-width:0.264583"
+       x="127.98301"
+       y="240.4366"
+       id="text984"><tspan
+         sodipodi:role="line"
+         id="tspan982"
+         x="127.98301"
+         y="240.4366"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583">person 3</tspan></text>
   </g>
 </svg>
